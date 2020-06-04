@@ -4,6 +4,7 @@ end
 
 def my_hash
   # return a valid hash with any key/value pair of your choice
+  new_hash = {name: Sarah, age: 30}
 end
 
 def pioneer
